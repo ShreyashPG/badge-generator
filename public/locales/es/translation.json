@@ -1,0 +1,30 @@
+{
+  "navbar": {
+    "credit": "Sitio Oficial",
+    "contribute": "Contribuir"
+  },
+  "footer": {
+    "license": "LICENCIA"
+  },
+  "badgeGenerator": {
+    "twoPanels": "Dos Paneles",
+    "threePanels": "Tres Paneles",
+    "primary": "PRINCIPAL",
+    "secondary": "SECUNDARIO",
+    "tertiary": "TERCIARIO",
+    "backgroundColor": "Color de fondo",
+    "textColor": "Color de texto",
+    "downloadBadge": "Descargar Insignia",
+    "copyMarkdown": "Copiar Markdown",
+    "share": "Compartir",
+    "sampleText": "Texto de ejemplo",
+    "textStyleP": "Estilo de texto",
+    "textStyleS":"Text Style"
+    
+  },
+  "toast": {
+    "imageCopied": "Insignia Copiada",
+    "markdownCopied": "Markdown Copiado",
+    "shareLinkCopied": "Enlace de Compartir Copiado"
+  }
+}

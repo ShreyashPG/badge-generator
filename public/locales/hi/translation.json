@@ -1,0 +1,31 @@
+{
+  "navbar": {
+    "credit": "आधिकारिक साइट",
+    "contribute": "सहयोग करें"
+  },
+  "footer": {
+    "license": "लाइसेंस"
+  },
+  "badgeGenerator": {
+    "twoPanels": "दो पैनल",
+    "threePanels": "तीन पैनल",
+    "primary": "प्राथमिक",
+    "secondary": "द्वितीयक",
+    "tertiary": "तृतीयक",
+    "backgroundColor": "पृष्ठभूमि रंग",
+    "textColor": "टेक्स्ट रंग",
+    "downloadBadge": "बैज डाउनलोड करें",
+    "copyMarkdown": "मार्कडाउन कॉपी करें",
+    "share": "शेयर करें",
+    "sampleText": "नमूना टेक्स्ट",
+    "textStyleP": "पाठ शैली",
+    "textStyleS":"Text Style"
+
+    
+  },
+  "toast": {
+    "imageCopied": "बैज कॉपी हो गया",
+    "markdownCopied": "मार्कडाउन कॉपी हो गया",
+    "shareLinkCopied": "शेयर लिंक कॉपी हो गया"
+  }
+}

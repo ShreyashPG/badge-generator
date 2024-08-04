@@ -1,0 +1,30 @@
+{
+  "navbar": {
+    "credit": "Offizielle Website",
+    "contribute": "Beitragen"
+  },
+  "footer": {
+    "license": "LIZENZ"
+  },
+  "badgeGenerator": {
+    "twoPanels": "Zwei Panels",
+    "threePanels": "Drei Panels",
+    "primary": "PRIMÄR",
+    "secondary": "SEKUNDÄR",
+    "tertiary": "TERTIÄR",
+    "backgroundColor": "Hintergrundfarbe",
+    "textColor": "Textfarbe",
+    "downloadBadge": "Badge herunterladen",
+    "copyMarkdown": "Markdown kopieren",
+    "share": "Teilen",
+    "sampleText": "Beispieltext",
+    "textStyleP": "Textstil",
+    "textStyleS":"Text Style"
+    
+  },
+  "toast": {
+    "imageCopied": "Badge kopiert",
+    "markdownCopied": "Markdown kopiert",
+    "shareLinkCopied": "Freigabelink kopiert"
+  }
+}
