@@ -1,14 +1,13 @@
 
 # GitHub Badge Generator
 
-A **GitHub Badge Generator** built using the MERN stack (MongoDB, Express.js, React, Node.js) that allows users to create customizable GitHub profile badges. Users can choose up to three frame color options for their badges, making them unique and visually appealing.
+A **GitHub Badge Generator** built using the React.js that allows users to create customizable GitHub profile badges. Users can choose up to three frame color options for their badges, making them unique and visually appealing.
 
 ## Features
 
 - **Customizable Badges**: Choose from up to three frame color options to personalize your badge.
 - **Real-Time Preview**: Instantly see how your badge looks as you customize it.
 - **Simple and Intuitive UI**: Easy-to-use interface designed for quick badge generation.
-- **MERN Stack**: Full-stack application built with MongoDB, Express.js, React, and Node.js.
 
 ## Tech Stack
 
@@ -24,11 +23,7 @@ A **GitHub Badge Generator** built using the MERN stack (MongoDB, Express.js, Re
    ```
 
 2. **Install dependencies**:
-   - Backend:
-     ```bash
-     cd server
-     npm install
-     ```
+
    - Frontend:
      ```bash
      cd client
